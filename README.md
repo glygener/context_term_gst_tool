@@ -266,3 +266,9 @@ Run the docker file to execute any of the pipeline discussed above.
 - `context_term_full_length_version`: Files for the full-length version of the context term detection tool
 - `gst_abstract_version`: Files for the abstract version of the GST detection tool
 - `gst_full_version`: Files for the full-length version of the GST detection tool
+
+### **Model Weights**
+- Model weights are available in saved_model.tar.gz zip file
+- We recommend running the docker to obtain the actual weights of the GST tool
+
+**N.B:** More details can be found in the `documentation.docx` file.
