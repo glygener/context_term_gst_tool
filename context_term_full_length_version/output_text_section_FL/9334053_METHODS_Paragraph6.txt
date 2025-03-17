@@ -1,0 +1,1 @@
+2.6. DNA Pull down Assay. For DNA pull down, the biotin-labeled GALNT6 promoter and negative control probes were conjugated with beads for coculturing with the protein extracts from HCC cells for 2 h. Proteins were purified and subjected to western blot analysis. 

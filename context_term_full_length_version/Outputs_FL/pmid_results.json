@@ -1,0 +1,249 @@
+[
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {
+        "docId": "2391110_ABSTRACT",
+        "entity": [
+            {
+                "entityType": "SpecificSite",
+                "charStart": 554,
+                "charEnd": 556,
+                "sentenceIndex": 5,
+                "entityText": "E29",
+                "source": "SiteDetectorTool"
+            }
+        ]
+    },
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {
+        "docId": "2391110_METHODS_Paragraph8",
+        "entity": [
+            {
+                "entityType": "SpecificSite",
+                "charStart": 301,
+                "charEnd": 303,
+                "sentenceIndex": 3,
+                "entityText": "l-1",
+                "source": "SiteDetectorTool"
+            }
+        ]
+    },
+    {},
+    {
+        "docId": "2391110_RESULTS_Paragraph1",
+        "entity": [
+            {
+                "entityType": "SpecificSite",
+                "charStart": 342,
+                "charEnd": 344,
+                "sentenceIndex": 3,
+                "entityText": "E29",
+                "source": "SiteDetectorTool"
+            }
+        ]
+    },
+    {},
+    {},
+    {
+        "docId": "2391110_RESULTS_Paragraph4",
+        "entity": [
+            {
+                "entityType": "SpecificSite",
+                "charStart": 125,
+                "charEnd": 127,
+                "sentenceIndex": 1,
+                "entityText": "l-1",
+                "source": "SiteDetectorTool"
+            },
+            {
+                "entityType": "SpecificSite",
+                "charStart": 148,
+                "charEnd": 150,
+                "sentenceIndex": 1,
+                "entityText": "l-1",
+                "source": "SiteDetectorTool"
+            },
+            {
+                "entityType": "SpecificSite",
+                "charStart": 254,
+                "charEnd": 256,
+                "sentenceIndex": 1,
+                "entityText": "l-1",
+                "source": "SiteDetectorTool"
+            }
+        ]
+    },
+    {
+        "docId": "2391110_RESULTS_Paragraph5",
+        "entity": [
+            {
+                "entityType": "SpecificSite",
+                "charStart": 144,
+                "charEnd": 146,
+                "sentenceIndex": 1,
+                "entityText": "l-1",
+                "source": "SiteDetectorTool"
+            },
+            {
+                "entityType": "SpecificSite",
+                "charStart": 166,
+                "charEnd": 168,
+                "sentenceIndex": 1,
+                "entityText": "l-1",
+                "source": "SiteDetectorTool"
+            },
+            {
+                "entityType": "SpecificSite",
+                "charStart": 611,
+                "charEnd": 613,
+                "sentenceIndex": 4,
+                "entityText": "l-1",
+                "source": "SiteDetectorTool"
+            },
+            {
+                "entityType": "SpecificSite",
+                "charStart": 631,
+                "charEnd": 633,
+                "sentenceIndex": 4,
+                "entityText": "l-1",
+                "source": "SiteDetectorTool"
+            }
+        ]
+    },
+    {
+        "docId": "2391110_RESULTS_Paragraph6",
+        "entity": [
+            {
+                "entityType": "SpecificSite",
+                "charStart": 137,
+                "charEnd": 139,
+                "sentenceIndex": 1,
+                "entityText": "l-1",
+                "source": "SiteDetectorTool"
+            },
+            {
+                "entityType": "SpecificSite",
+                "charStart": 172,
+                "charEnd": 174,
+                "sentenceIndex": 1,
+                "entityText": "l-1",
+                "source": "SiteDetectorTool"
+            },
+            {
+                "entityType": "SpecificSite",
+                "charStart": 292,
+                "charEnd": 294,
+                "sentenceIndex": 2,
+                "entityText": "l-1",
+                "source": "SiteDetectorTool"
+            }
+        ]
+    },
+    {
+        "docId": "2391110_RESULTS_Paragraph7",
+        "entity": [
+            {
+                "entityType": "SpecificSite",
+                "charStart": 119,
+                "charEnd": 121,
+                "sentenceIndex": 1,
+                "entityText": "l-1",
+                "source": "SiteDetectorTool"
+            },
+            {
+                "entityType": "SpecificSite",
+                "charStart": 141,
+                "charEnd": 143,
+                "sentenceIndex": 1,
+                "entityText": "l-1",
+                "source": "SiteDetectorTool"
+            },
+            {
+                "entityType": "SpecificSite",
+                "charStart": 424,
+                "charEnd": 426,
+                "sentenceIndex": 3,
+                "entityText": "l-1",
+                "source": "SiteDetectorTool"
+            },
+            {
+                "entityType": "SpecificSite",
+                "charStart": 462,
+                "charEnd": 464,
+                "sentenceIndex": 3,
+                "entityText": "l-1",
+                "source": "SiteDetectorTool"
+            }
+        ]
+    },
+    {},
+    {
+        "docId": "2391110_DISCUSS_Paragraph2",
+        "entity": [
+            {
+                "entityType": "SpecificSite",
+                "charStart": 731,
+                "charEnd": 733,
+                "sentenceIndex": 4,
+                "entityText": "E29",
+                "source": "SiteDetectorTool"
+            },
+            {
+                "entityType": "SpecificSite",
+                "charStart": 845,
+                "charEnd": 847,
+                "sentenceIndex": 5,
+                "entityText": "E29",
+                "source": "SiteDetectorTool"
+            },
+            {
+                "entityType": "SpecificSite",
+                "charStart": 1029,
+                "charEnd": 1031,
+                "sentenceIndex": 6,
+                "entityText": "E29",
+                "source": "SiteDetectorTool"
+            },
+            {
+                "entityType": "SpecificSite",
+                "charStart": 1410,
+                "charEnd": 1412,
+                "sentenceIndex": 10,
+                "entityText": "E29",
+                "source": "SiteDetectorTool"
+            }
+        ]
+    },
+    {},
+    {},
+    {},
+    {}
+]

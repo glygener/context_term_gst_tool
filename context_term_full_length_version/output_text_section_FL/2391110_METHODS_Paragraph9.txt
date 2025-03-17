@@ -1,0 +1,1 @@
+Statistics. To test for statistically significant differences biomarkers were transformed to the logarithmic scale on which normal theory statistical estimates (mean, s.d.) and tests (t-tests) were applied. 
