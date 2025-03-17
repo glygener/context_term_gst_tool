@@ -269,6 +269,7 @@ Run the docker file to execute any of the pipeline discussed above.
 
 ### **Model Weights**
 - Model weights are available in saved_model.tar.gz zip file
+- The download link is available in the `documentation.docx` file.
 - We recommend running the docker to obtain the actual weights of the GST tool
 
 **N.B:** More details can be found in the `documentation.docx` file.
